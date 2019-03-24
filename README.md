@@ -1,1 +1,1 @@
-# CS520_MazeRunner
+# DFS, BFS, A_Star algorithm in solving maze problem
