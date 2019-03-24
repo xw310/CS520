@@ -1,0 +1,300 @@
+loop = 0
+find the target in (7, 0) 
+
+loop = 1
+find the target in (3, 3) 
+
+loop = 2
+find the target in (1, 6) 
+
+loop = 3
+find the target in (5, 7) 
+
+loop = 4
+find the target in (9, 9) 
+
+loop = 5
+find the target in (0, 1) 
+
+loop = 6
+find the target in (4, 2) 
+
+loop = 7
+find the target in (2, 4) 
+
+loop = 8
+find the target in (1, 2) 
+
+loop = 9
+find the target in (1, 4) 
+
+loop = 10
+find the target in (1, 4) 
+
+loop = 11
+find the target in (6, 0) 
+
+loop = 12
+find the target in (6, 9) 
+
+loop = 13
+find the target in (5, 1) 
+
+loop = 14
+find the target in (6, 0) 
+
+loop = 15
+find the target in (6, 8) 
+
+loop = 16
+find the target in (2, 4) 
+
+loop = 17
+find the target in (0, 0) 
+
+loop = 18
+find the target in (0, 1) 
+
+loop = 19
+find the target in (5, 3) 
+
+loop = 20
+find the target in (8, 5) 
+
+loop = 21
+find the target in (3, 8) 
+
+loop = 22
+find the target in (0, 5) 
+
+loop = 23
+find the target in (1, 7) 
+
+loop = 24
+find the target in (7, 7) 
+
+loop = 25
+find the target in (7, 7) 
+
+loop = 26
+find the target in (4, 3) 
+
+loop = 27
+find the target in (9, 5) 
+
+loop = 28
+find the target in (7, 9) 
+
+loop = 29
+find the target in (7, 1) 
+
+loop = 30
+find the target in (2, 7) 
+
+loop = 31
+find the target in (5, 4) 
+
+loop = 32
+find the target in (8, 0) 
+
+loop = 33
+find the target in (8, 5) 
+
+loop = 34
+find the target in (9, 7) 
+
+loop = 35
+find the target in (3, 1) 
+
+loop = 36
+find the target in (9, 2) 
+
+loop = 37
+find the target in (8, 2) 
+
+loop = 38
+find the target in (8, 6) 
+
+loop = 39
+find the target in (2, 8) 
+
+loop = 40
+find the target in (4, 8) 
+
+loop = 41
+find the target in (4, 5) 
+
+loop = 42
+find the target in (9, 5) 
+
+loop = 43
+find the target in (9, 0) 
+
+loop = 44
+find the target in (9, 7) 
+
+loop = 45
+find the target in (2, 0) 
+
+loop = 46
+find the target in (0, 8) 
+
+loop = 47
+find the target in (8, 4) 
+
+loop = 48
+find the target in (7, 8) 
+
+loop = 49
+find the target in (7, 3) 
+
+loop = 50
+find the target in (9, 9) 
+
+loop = 51
+find the target in (8, 2) 
+
+loop = 52
+find the target in (0, 9) 
+
+loop = 53
+find the target in (4, 4) 
+
+loop = 54
+find the target in (1, 5) 
+
+loop = 55
+find the target in (9, 0) 
+
+loop = 56
+find the target in (3, 6) 
+
+loop = 57
+find the target in (2, 3) 
+
+loop = 58
+find the target in (7, 2) 
+
+loop = 59
+find the target in (9, 5) 
+
+loop = 60
+find the target in (4, 5) 
+
+loop = 61
+find the target in (0, 4) 
+
+loop = 62
+find the target in (8, 0) 
+
+loop = 63
+find the target in (2, 1) 
+
+loop = 64
+find the target in (4, 0) 
+
+loop = 65
+find the target in (3, 3) 
+
+loop = 66
+find the target in (7, 6) 
+
+loop = 67
+find the target in (4, 8) 
+
+loop = 68
+find the target in (3, 7) 
+
+loop = 69
+find the target in (7, 2) 
+
+loop = 70
+find the target in (4, 2) 
+
+loop = 71
+find the target in (5, 8) 
+
+loop = 72
+find the target in (9, 3) 
+
+loop = 73
+find the target in (3, 0) 
+
+loop = 74
+find the target in (5, 4) 
+
+loop = 75
+find the target in (3, 1) 
+
+loop = 76
+find the target in (3, 1) 
+
+loop = 77
+find the target in (1, 4) 
+
+loop = 78
+find the target in (4, 2) 
+
+loop = 79
+find the target in (9, 7) 
+
+loop = 80
+find the target in (0, 3) 
+
+loop = 81
+find the target in (5, 4) 
+
+loop = 82
+find the target in (4, 8) 
+
+loop = 83
+find the target in (1, 5) 
+
+loop = 84
+find the target in (1, 1) 
+
+loop = 85
+find the target in (5, 0) 
+
+loop = 86
+find the target in (1, 2) 
+
+loop = 87
+find the target in (1, 1) 
+
+loop = 88
+find the target in (2, 5) 
+
+loop = 89
+find the target in (4, 5) 
+
+loop = 90
+find the target in (1, 6) 
+
+loop = 91
+find the target in (5, 7) 
+
+loop = 92
+find the target in (2, 1) 
+
+loop = 93
+find the target in (6, 4) 
+
+loop = 94
+find the target in (3, 0) 
+
+loop = 95
+find the target in (4, 4) 
+
+loop = 96
+find the target in (9, 5) 
+
+loop = 97
+find the target in (5, 3) 
+
+loop = 98
+find the target in (3, 8) 
+
+loop = 99
+find the target in (7, 5) 
+
