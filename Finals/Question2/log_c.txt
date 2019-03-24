@@ -1,0 +1,140 @@
+the cost of a used machine is 170
+iteration times: 20 times
+iteration times: 40 times
+iteration times: 60 times
+iteration times: 80 times
+iteration times: 100 times
+iteration times: 120 times
+now the iteration converges
+optimal for "new": 800.5297139446213
+
+
+optimal for used1: 778.3665594864158
+
+
+optimal for used2: 643.2203988396857
+
+
+optimal for used3: 556.1216737125761
+
+
+optimal for used4: 502.8341069140938
+
+
+optimal for used5: 475.8441077045449
+
+
+optimal for used6: 470.4765529570062
+
+
+optimal for used7: 470.4765529570062
+
+
+optimal for used8: 470.4765529570062
+
+
+optimal for "dead": 470.4765529570062
+
+
+
+
+iteration for new: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for dead: ['used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine']
+
+
+iteration for u1: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u2: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u3: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u4: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u5: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'used_machine', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u6: ['use', 'use', 'use', 'use', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine']
+
+
+iteration for u7: ['use', 'use', 'use', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine']
+
+
+iteration for u8: ['use', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine', 'new_machine']
+
+
+the cost of a used machine is 169
+iteration times: 20 times
+iteration times: 40 times
+iteration times: 60 times
+iteration times: 80 times
+iteration times: 100 times
+iteration times: 120 times
+now the iteration converges
+optimal for "new": 800.567685520286
+
+
+optimal for used1: 778.4087489549332
+
+
+optimal for used2: 643.3094537843467
+
+
+optimal for used3: 556.2601977709496
+
+
+optimal for used4: 503.0239322755752
+
+
+optimal for used5: 476.0866594053291
+
+
+optimal for used6: 470.773002693522
+
+
+optimal for used7: 470.773002693522
+
+
+optimal for used8: 470.773002693522
+
+
+optimal for "dead": 470.773002693522
+
+
+
+
+iteration for new: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for dead: ['used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine']
+
+
+iteration for u1: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u2: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u3: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u4: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u5: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'used_machine', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u6: ['use', 'use', 'use', 'use', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine']
+
+
+iteration for u7: ['use', 'use', 'use', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine']
+
+
+iteration for u8: ['use', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine', 'used_machine']
+
+

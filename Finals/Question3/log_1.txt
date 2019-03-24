@@ -1,0 +1,24 @@
+initialization successful, k = 3
+c1 belongs to class B
+c2 belongs to class A
+c3 belongs to class A
+c4 belongs to class B
+c5 belongs to class B
+c1's most similar picture are ['B3', 'B4', 'A5']
+c2's most similar picture are ['B3', 'A5', 'A3']
+c3's most similar picture are ['A1', 'A2', 'B2']
+c4's most similar picture are ['B2', 'B3', 'A2']
+c5's most similar picture are ['A5', 'B2', 'B1']
+
+
+initialization successful, k = 5
+c1 belongs to class B
+c2 belongs to class B
+c3 belongs to class A
+c4 belongs to class A
+c5 belongs to class B
+c1's most similar picture are ['B3', 'B4', 'A5', 'B1', 'A1']
+c2's most similar picture are ['B3', 'A5', 'A3', 'B1', 'B4']
+c3's most similar picture are ['A1', 'A2', 'B2', 'A3', 'B1']
+c4's most similar picture are ['B2', 'B3', 'A2', 'A4', 'A5']
+c5's most similar picture are ['A5', 'B2', 'B1', 'B5', 'A1']

@@ -1,0 +1,69 @@
+iteration times: 20 times
+iteration times: 40 times
+iteration times: 60 times
+iteration times: 80 times
+iteration times: 100 times
+iteration times: 120 times
+now the iteration converges
+optimal for "new": 800.5296153934063
+
+
+optimal for used1: 778.366460935199
+
+
+optimal for used2: 643.2203002884567
+
+
+optimal for used3: 556.1215751613595
+
+
+optimal for used4: 502.8340083628864
+
+
+optimal for used5: 475.8440091533359
+
+
+optimal for used6: 470.4764544057931
+
+
+optimal for used7: 470.4764544057931
+
+
+optimal for used8: 470.4764544057931
+
+
+optimal for "dead": 470.4764544057931
+
+
+
+
+iteration for new: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for dead: ['replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace']
+
+
+iteration for u1: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u2: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u3: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u4: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u5: ['use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'replace', 'replace', 'replace', 'replace', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use', 'use']
+
+
+iteration for u6: ['use', 'use', 'use', 'use', 'use', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace']
+
+
+iteration for u7: ['use', 'use', 'use', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace']
+
+
+iteration for u8: ['use', 'use', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace', 'replace']
+
+

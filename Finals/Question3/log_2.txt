@@ -1,0 +1,6 @@
+initialization successful
+c1 belongs to B
+c2 belongs to A
+c3 belongs to A
+c4 belongs to B
+c5 belongs to A
